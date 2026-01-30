@@ -1,0 +1,24 @@
+# Layer 1 Finance Domain Classifier - Dependencies
+
+# Core ML/DL
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.16.0
+accelerate>=0.25.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Evaluation metrics
+evaluate>=0.4.0
+
+# Training utilities
+tqdm>=4.65.0
+
+# Optional: For faster tokenization
+tokenizers>=0.15.0
